@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Un3thical
+- 👋 Hi, I’m @TanmaySugandhi
 - 👀 I’m interested in Game design and Development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Brand new game
